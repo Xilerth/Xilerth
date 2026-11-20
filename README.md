@@ -1,6 +1,6 @@
-![Xilerth](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:24292f,100:57606a&text=Xilerth&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Senior%20frontend%20engineer&descColor=d0d7de&descSize=16&descAlignY=62)
+![Xilerth](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:24292f,100:57606a&text=Xilerth&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Senior%20frontend%20developer&descColor=d0d7de&descSize=16&descAlignY=62)
 
-Ingeniero frontend senior especializado en Angular y TypeScript. Diseño y construyo sistemas de componentes, aplicaciones web y las APIs que las respaldan, con foco en arquitectura limpia, rendimiento y accesibilidad.
+Desarrollador frontend senior especializado en Angular y TypeScript. Diseño y construyo sistemas de componentes, aplicaciones web y las APIs que las respaldan, con foco en arquitectura limpia, rendimiento y accesibilidad.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-porfolio.xilerth.com-24292f?style=flat-square&logo=googlechrome&logoColor=white)](https://porfolio.xilerth.com)
 
