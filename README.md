@@ -2,6 +2,8 @@
 
 Ingeniero frontend senior especializado en Angular y TypeScript. Diseño y construyo sistemas de componentes, aplicaciones web y las APIs que las respaldan, con foco en arquitectura limpia, rendimiento y accesibilidad.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-porfolio.xilerth.com-24292f?style=flat-square&logo=googlechrome&logoColor=white)](https://porfolio.xilerth.com)
+
 ## Proyectos
 
 - **[Cyclone](https://github.com/Xilerth/Cyclone-NG)**: libreria de componentes escrita una vez como Web Components (Stencil), con wrappers nativos para Angular y React. 115 componentes, incluido un data grid con scroll virtual.
